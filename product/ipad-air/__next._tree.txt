@@ -1,3 +1,3 @@
-:HL["/_next/static/chunks/0qx5t8k1oz1_b.css","style"]
+:HL["/_next/static/chunks/0ptq0m~-nlvr5.css","style"]
 :HL["/media/ipad.jpg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"product","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"ipad-air","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"33ALfL_ZHMmU5pHlb8mdA"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"product","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"ipad-air","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"wc5YNg7F9VKXMRA8797aT"}
