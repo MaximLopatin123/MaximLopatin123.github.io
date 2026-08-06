@@ -1,3 +1,3 @@
-:HL["/_next/static/chunks/0c.66pk~xeg_6.css","style"]
+:HL["/_next/static/chunks/0qx5t8k1oz1_b.css","style"]
 :HL["/media/store-interior.jpg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"about","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"cTO5QZyV3UY-hkSjFpucR"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"about","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"33ALfL_ZHMmU5pHlb8mdA"}
