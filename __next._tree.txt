@@ -1,7 +1,6 @@
-:HL["/_next/static/chunks/10apeiwgu-ucl.css","style"]
+:HL["/_next/static/chunks/0c.66pk~xeg_6.css","style"]
 :HL["/media/phone-lifestyle.jpg","image"]
 :HL["/media/macbook-air.jpg","image"]
 :HL["/media/galaxy-s25.png","image"]
-:HL["/media/service-phone-blueprint.png","image"]
 :HL["/media/store-interior.jpg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"TziRbKojFMuHyGvNUX1yX"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"cTO5QZyV3UY-hkSjFpucR"}
